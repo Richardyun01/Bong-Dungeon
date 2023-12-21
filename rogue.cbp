@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="rogue" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="rogue" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="include" />
+			<Add directory="include/SDL2" />
+		</Compiler>
+		<Linker>
+			<Add option="-ltcod -lmingw32 -lSDL2main -lSDL2" />
+			<Add directory="lib" />
+		</Linker>
+		<Unit filename="src/Actor.cpp" />
+		<Unit filename="src/Actor.h" />
+		<Unit filename="src/Ai.cpp" />
+		<Unit filename="src/Ai.h" />
+		<Unit filename="src/Attacker.cpp" />
+		<Unit filename="src/Attacker.h" />
+		<Unit filename="src/Container.cpp" />
+		<Unit filename="src/Container.h" />
+		<Unit filename="src/Destructible.cpp" />
+		<Unit filename="src/Destructible.h" />
+		<Unit filename="src/Engine.cpp" />
+		<Unit filename="src/Engine.h" />
+		<Unit filename="src/Gui.cpp" />
+		<Unit filename="src/Gui.h" />
+		<Unit filename="src/Item.cpp" />
+		<Unit filename="src/Item.h" />
+		<Unit filename="src/Map.cpp" />
+		<Unit filename="src/Map.h" />
+		<Unit filename="src/Object.h" />
+		<Unit filename="src/main.cpp" />
+		<Unit filename="src/main.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

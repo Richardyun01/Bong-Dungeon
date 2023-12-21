@@ -1,0 +1,722 @@
+# depslib dependency file v1.0
+1701329757 source:d:\school homework\2-2\20202865_proj4\rogue\actor.cpp
+	<math.h>
+	"main.h"
+
+1701080447 d:\school homework\2-2\20202865_proj4\rogue\main.hpp
+	"libtcod.hpp"
+	"Object.hpp"
+	"Destructible.hpp"
+	"Attacker.hpp"
+	"Ai.hpp"
+	"Pickable.hpp"
+	"Container.hpp"
+	"Actor.hpp"
+	"Map.hpp"
+	"Gui.hpp"
+	"Engine.hpp"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod.hpp
+	"libtcod.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod.h
+	"libtcod/libtcod.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\libtcod.h
+	"bresenham.h"
+	"bsp.h"
+	"color.h"
+	"console.h"
+	"console_drawing.h"
+	"console_etc.h"
+	"console_init.h"
+	"console_printing.h"
+	"console_rexpaint.h"
+	"context.h"
+	"context_init.h"
+	"error.h"
+	"fov.h"
+	"globals.h"
+	"heightmap.h"
+	"image.h"
+	"lex.h"
+	"list.h"
+	"logging.h"
+	"mersenne.h"
+	"mouse.h"
+	"namegen.h"
+	"noise.h"
+	"parser.h"
+	"path.h"
+	"pathfinder.h"
+	"pathfinder_frontier.h"
+	"portability.h"
+	"random.h"
+	"renderer_sdl2.h"
+	"sdl2/event.h"
+	"sys.h"
+	"tileset.h"
+	"tileset_bdf.h"
+	"tileset_fallback.h"
+	"tileset_render.h"
+	"tileset_truetype.h"
+	"tree.h"
+	"txtfield.h"
+	"utility.h"
+	"version.h"
+	"zip.h"
+	"bresenham.hpp"
+	"bsp.hpp"
+	"color.hpp"
+	"console.hpp"
+	"console_printing.hpp"
+	"console_rexpaint.hpp"
+	"console_types.hpp"
+	"context.hpp"
+	"fov.hpp"
+	"heightmap.hpp"
+	"image.hpp"
+	"lex.hpp"
+	"list.hpp"
+	"mersenne.hpp"
+	"mouse.hpp"
+	"namegen.hpp"
+	"noise.hpp"
+	"parser.hpp"
+	"path.hpp"
+	"sys.hpp"
+	"tileset.hpp"
+	"tileset_bdf.hpp"
+	"tileset_fallback.hpp"
+	"tree.hpp"
+	"txtfield.hpp"
+	"zip.hpp"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\bresenham.h
+	"portability.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\portability.h
+	"config.h"
+	<wchar.h>
+	<stdint.h>
+	<stdbool.h>
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\config.h
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\bsp.h
+	"mersenne_types.h"
+	"portability.h"
+	"tree.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\mersenne_types.h
+	<stdint.h>
+	"config.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\tree.h
+	"portability.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\color.h
+	<stdbool.h>
+	<stdint.h>
+	<istream>
+	<ostream>
+	<stdexcept>
+	"config.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\console.h
+	<stdbool.h>
+	<algorithm>
+	<array>
+	<memory>
+	<optional>
+	<stdexcept>
+	<utility>
+	"error.hpp"
+	"color.h"
+	"config.h"
+	"error.h"
+	"tileset.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\error.hpp
+	<exception>
+	<filesystem>
+	<stdexcept>
+	<string>
+	"error.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\error.h
+	"config.h"
+	"version.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\version.h
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\tileset.h
+	<stddef.h>
+	"color.h"
+	"config.h"
+	"error.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\console_drawing.h
+	<array>
+	<optional>
+	"config.h"
+	"console_types.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\console_types.h
+	"color.h"
+	"config.h"
+	"console.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\console_etc.h
+	<stdbool.h>
+	<wchar.h>
+	"color.h"
+	"config.h"
+	"console.h"
+	"console_types.h"
+	"context.h"
+	"error.h"
+	"image.h"
+	"list.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\context.h
+	<algorithm>
+	<array>
+	<memory>
+	<stdexcept>
+	"console_types.hpp"
+	"error.hpp"
+	"config.h"
+	"console.h"
+	"context_viewport.h"
+	"error.h"
+	"mouse_types.h"
+	"tileset.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\console_types.hpp
+	<memory>
+	<stdexcept>
+	<string>
+	<utility>
+	"console.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\context_viewport.h
+	<stdbool.h>
+	"color.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\mouse_types.h
+	"portability.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\image.h
+	"color.h"
+	"console_types.h"
+	"error.h"
+	"portability.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\list.h
+	"portability.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\console_init.h
+	"config.h"
+	"console.h"
+	"console_types.h"
+	"context.h"
+	"error.h"
+	"tileset.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\console_printing.h
+	<stdarg.h>
+	<stdbool.h>
+	<wchar.h>
+	"config.h"
+	"console_types.h"
+	"error.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\console_rexpaint.h
+	<string>
+	<vector>
+	"config.h"
+	"console_types.h"
+	"list.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\context_init.h
+	<stdbool.h>
+	"config.h"
+	"context.h"
+	"error.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\fov.h
+	<stdbool.h>
+	<memory>
+	"config.h"
+	"error.h"
+	"fov_types.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\fov_types.h
+	"portability.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\globals.h
+	"config.h"
+	"tileset.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\heightmap.h
+	"mersenne_types.h"
+	"noise.h"
+	"portability.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\noise.h
+	"config.h"
+	"mersenne_types.h"
+	"noise_defaults.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\noise_defaults.h
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\lex.h
+	"portability.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\logging.h
+	"config.h"
+	"error.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\mersenne.h
+	"mersenne_types.h"
+	"portability.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\mouse.h
+	"mouse_types.h"
+	"portability.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\namegen.h
+	"list.h"
+	"mersenne.h"
+	"portability.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\parser.h
+	"color.h"
+	"lex.h"
+	"list.h"
+	"mersenne.h"
+	"portability.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\path.h
+	"fov_types.h"
+	"list.h"
+	"portability.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\pathfinder.h
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+	"heapq.h"
+	"portability.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\heapq.h
+	<stdbool.h>
+	<stddef.h>
+	"config.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\pathfinder_frontier.h
+	<stdint.h>
+	"config.h"
+	"error.h"
+	"heapq.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\random.h
+	<stdint.h>
+	"config.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\renderer_sdl2.h
+	<stdbool.h>
+	"config.h"
+	"console.h"
+	"context.h"
+	"error.h"
+	"mouse.h"
+	"tileset.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\sdl2\event.h
+	"../console_types.h"
+	"../mouse.h"
+	"../sys.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\sys.h
+	"image.h"
+	"list.h"
+	"mouse_types.h"
+	"portability.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\tileset_bdf.h
+	"config.h"
+	"tileset.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\tileset_fallback.h
+	"config.h"
+	"error.h"
+	"tileset.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\tileset_render.h
+	"console.h"
+	"tileset.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\tileset_truetype.h
+	"config.h"
+	"error.h"
+	"tileset.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\txtfield.h
+	"color.h"
+	"console_types.h"
+	"portability.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\utility.h
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\zip.h
+	"color.h"
+	"console_types.h"
+	"image.h"
+	"mersenne.h"
+	"portability.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\bresenham.hpp
+	<array>
+	<functional>
+	<iterator>
+	<vector>
+	"bresenham.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\bsp.hpp
+	<utility>
+	"bsp.h"
+	"list.hpp"
+	"mersenne.hpp"
+	"tree.hpp"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\list.hpp
+	<stdlib.h>
+	<string.h>
+	<utility>
+	"list.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\mersenne.hpp
+	<utility>
+	"mersenne.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\tree.hpp
+	"tree.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\color.hpp
+	<algorithm>
+	<array>
+	<stdexcept>
+	"color.h"
+	"utility.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\console.hpp
+	<stdexcept>
+	<string>
+	<utility>
+	"color.hpp"
+	"console.h"
+	"console_drawing.h"
+	"console_etc.h"
+	"console_init.h"
+	"console_printing.h"
+	"console_rexpaint.h"
+	"console_types.h"
+	"image.hpp"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\image.hpp
+	"color.hpp"
+	"console.hpp"
+	"image.h"
+	"matrix.hpp"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\matrix.hpp
+	<array>
+	<stdexcept>
+	<string>
+	<vector>
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\console_printing.hpp
+	<stdio.h>
+	<array>
+	<cstdarg>
+	<optional>
+	<stdexcept>
+	<string>
+	<string_view>
+	"console_printing.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\console_rexpaint.hpp
+	<filesystem>
+	<vector>
+	"console_rexpaint.h"
+	"console_types.hpp"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\context.hpp
+	<array>
+	<filesystem>
+	<stdexcept>
+	"config.h"
+	"console.h"
+	"console_types.h"
+	"context.h"
+	"context_init.h"
+	"context_viewport.h"
+	"error.hpp"
+	"mouse_types.h"
+	"tileset.hpp"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\tileset.hpp
+	<array>
+	<filesystem>
+	<memory>
+	"error.hpp"
+	"tileset.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\fov.hpp
+	<utility>
+	"fov.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\heightmap.hpp
+	"heightmap.h"
+	"noise.hpp"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\noise.hpp
+	<utility>
+	"mersenne.hpp"
+	"noise.h"
+	"noise_defaults.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\lex.hpp
+	"lex.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\mouse.hpp
+	"mouse.h"
+	"mouse_types.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\namegen.hpp
+	<string>
+	"list.hpp"
+	"mersenne.hpp"
+	"namegen.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\parser.hpp
+	<vector>
+	<memory>
+	"color.hpp"
+	"list.hpp"
+	"parser.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\path.hpp
+	<utility>
+	"fov.hpp"
+	"path.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\sys.hpp
+	"image.hpp"
+	"mouse.hpp"
+	"sys.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\tileset_bdf.hpp
+	<filesystem>
+	"error.hpp"
+	"tileset.hpp"
+	"tileset_bdf.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\tileset_fallback.hpp
+	<array>
+	"tileset.hpp"
+	"tileset_fallback.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\txtfield.hpp
+	"color.hpp"
+	"console.hpp"
+	"txtfield.h"
+
+1685101233 d:\school homework\2-2\20202865_proj4\rogue\include\libtcod\zip.hpp
+	<filesystem>
+	<optional>
+	<string>
+	"color.hpp"
+	"config.h"
+	"console.hpp"
+	"image.hpp"
+	"mersenne.hpp"
+	"zip.h"
+
+1525356931 d:\school homework\2-2\20202865_proj4\rogue\persistent.hpp
+
+1701080514 d:\school homework\2-2\20202865_proj4\rogue\destructible.hpp
+
+1701080526 d:\school homework\2-2\20202865_proj4\rogue\attacker.hpp
+
+1701080286 d:\school homework\2-2\20202865_proj4\rogue\ai.hpp
+
+1701080595 d:\school homework\2-2\20202865_proj4\rogue\pickable.hpp
+
+1701080574 d:\school homework\2-2\20202865_proj4\rogue\container.hpp
+
+1701080561 d:\school homework\2-2\20202865_proj4\rogue\actor.hpp
+
+1701080286 d:\school homework\2-2\20202865_proj4\rogue\map.hpp
+
+1701080583 d:\school homework\2-2\20202865_proj4\rogue\gui.hpp
+
+1525356931 d:\school homework\2-2\20202865_proj4\rogue\engine.hpp
+
+1701329894 source:d:\school homework\2-2\20202865_proj4\rogue\ai.cpp
+	<stdio.h>
+	<math.h>
+	"main.h"
+
+1701329827 source:d:\school homework\2-2\20202865_proj4\rogue\attacker.cpp
+	<stdio.h>
+	<cstdlib>
+	"main.h"
+
+1701329769 source:d:\school homework\2-2\20202865_proj4\rogue\container.cpp
+	"main.h"
+
+1701329821 source:d:\school homework\2-2\20202865_proj4\rogue\destructible.cpp
+	<stdio.h>
+	"main.h"
+
+1701329906 source:d:\school homework\2-2\20202865_proj4\rogue\gui.cpp
+	<stdio.h>
+	<stdarg.h>
+	"main.h"
+
+1701092477 source:d:\school homework\2-2\20202865_proj4\rogue\main.cpp
+	"main.h"
+
+1701329745 source:d:\school homework\2-2\20202865_proj4\rogue\map.cpp
+	<cmath>
+	"main.h"
+
+1525356931 source:d:\school homework\2-2\20202865_proj4\rogue\persistent.cpp
+	"main.hpp"
+
+1525356931 source:d:\school homework\2-2\20202865_proj4\rogue\pickable.cpp
+	"main.hpp"
+
+1701329919 source:d:\school homework\2-2\20202865_proj4\rogue\engine.cpp
+	<math.h>
+	"main.h"
+
+1701080479 d:\school homework\2-2\20202865_proj4\rogue\object.hpp
+
+1701231221 source:d:\school homework\2-2\20202865_proj4\rogue\object.cpp
+	"main.h"
+
+1701359333 d:\school homework\2-2\20202865_proj4\rogue\main.h
+	"libtcod.h"
+	"Object.h"
+	"Destructible.h"
+	"Attacker.h"
+	"Ai.h"
+	"Item.h"
+	"Container.h"
+	"Actor.h"
+	"Map.h"
+	"Gui.h"
+	"Engine.h"
+
+1701332447 d:\school homework\2-2\20202865_proj4\rogue\object.h
+
+1701329029 d:\school homework\2-2\20202865_proj4\rogue\destructible.h
+
+1701359260 d:\school homework\2-2\20202865_proj4\rogue\attacker.h
+
+1701329044 d:\school homework\2-2\20202865_proj4\rogue\ai.h
+
+1701080595 d:\school homework\2-2\20202865_proj4\rogue\pickable.h
+
+1701328941 d:\school homework\2-2\20202865_proj4\rogue\container.h
+
+1701332508 d:\school homework\2-2\20202865_proj4\rogue\actor.h
+
+1701328974 d:\school homework\2-2\20202865_proj4\rogue\map.h
+
+1701328953 d:\school homework\2-2\20202865_proj4\rogue\gui.h
+
+1701329016 d:\school homework\2-2\20202865_proj4\rogue\engine.h
+
+1701328962 d:\school homework\2-2\20202865_proj4\rogue\item.h
+
+1701329641 source:d:\school homework\2-2\20202865_proj4\rogue\item.cpp
+	"main.h"
+
+1701329757 source:d:\school homework\2-2\20202865_proj4\rogue\src\actor.cpp
+	<math.h>
+	"main.h"
+
+1701391278 d:\school homework\2-2\20202865_proj4\rogue\src\main.h
+	"libtcod.h"
+	"Object.h"
+	"Destructible.h"
+	"Attacker.h"
+	"Ai.h"
+	"Item.h"
+	"Container.h"
+	"Actor.h"
+	"Map.h"
+	"Gui.h"
+	"Engine.h"
+
+1701391009 d:\school homework\2-2\20202865_proj4\rogue\src\object.h
+
+1701390973 d:\school homework\2-2\20202865_proj4\rogue\src\destructible.h
+
+1701390961 d:\school homework\2-2\20202865_proj4\rogue\src\attacker.h
+
+1701390756 d:\school homework\2-2\20202865_proj4\rogue\src\ai.h
+
+1701390994 d:\school homework\2-2\20202865_proj4\rogue\src\item.h
+
+1701390967 d:\school homework\2-2\20202865_proj4\rogue\src\container.h
+
+1701390747 d:\school homework\2-2\20202865_proj4\rogue\src\actor.h
+
+1701391002 d:\school homework\2-2\20202865_proj4\rogue\src\map.h
+
+1701390987 d:\school homework\2-2\20202865_proj4\rogue\src\gui.h
+
+1701390980 d:\school homework\2-2\20202865_proj4\rogue\src\engine.h
+
+1701329894 source:d:\school homework\2-2\20202865_proj4\rogue\src\ai.cpp
+	<stdio.h>
+	<math.h>
+	"main.h"
+
+1701329827 source:d:\school homework\2-2\20202865_proj4\rogue\src\attacker.cpp
+	<stdio.h>
+	<cstdlib>
+	"main.h"
+
+1701329769 source:d:\school homework\2-2\20202865_proj4\rogue\src\container.cpp
+	"main.h"
+
+1701329821 source:d:\school homework\2-2\20202865_proj4\rogue\src\destructible.cpp
+	<stdio.h>
+	"main.h"
+
+1701390535 source:d:\school homework\2-2\20202865_proj4\rogue\src\engine.cpp
+	<math.h>
+	"main.h"
+
+1701359393 source:d:\school homework\2-2\20202865_proj4\rogue\src\item.cpp
+	"main.h"
+
+1701092477 source:d:\school homework\2-2\20202865_proj4\rogue\src\main.cpp
+	"main.h"
+
+1701390537 source:d:\school homework\2-2\20202865_proj4\rogue\src\map.cpp
+	<cmath>
+	"main.h"
+
+1701431273 source:d:\school homework\2-2\20202865_proj4\rogue\src\gui.cpp
+	<stdio.h>
+	<stdarg.h>
+	"main.h"
+
